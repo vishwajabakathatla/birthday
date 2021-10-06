@@ -10,7 +10,7 @@ document.getElementById("myCanvas").height=new_height;
 document.body.style.overflow="hidden";
 }
 function birthday_card(){
-fabric.Image.fromURL("BirthdayImage.jpg",function(Img){
+fabric.Image.fromURL("honey.jpg.jpeg",function(Img){
 card_image=Img;
 card_image.scaleToWidth(700);
 card_image.scaleToHeight(510);

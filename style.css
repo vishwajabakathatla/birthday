@@ -1,12 +1,13 @@
-body_backgorund 
+.body_backgorund 
 {
     background-image:url(hOye.gif);
     background-position:center;
     background-size:cover;
 }
-#myCanvas{
+#myCanvas
+{
    border-width: 10px;
+   background-color:goldenrod;
    border-style: ridge;
-   background-color: white;
-   border-color:pink;
+   border-color: pink; 
 }
